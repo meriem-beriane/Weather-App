@@ -1,0 +1,39 @@
+.title {
+  font-family: "28r", Courier, monospace;
+  font-size: 40px;
+
+  padding-bottom: 20px;
+  color: rgba(0, 0, 0, 0.637);
+}
+.icon {
+  padding-bottom: 20px;
+  color: rgba(47, 68, 9, 0.664);
+}
+.temp {
+  font-weight: bold;
+  font-size: 50px;
+}
+.max {
+  color: #ff7f27;
+  font-weight: bold;
+}
+.min {
+  color: #0e254ee8;
+  font-weight: bold;
+}
+.cards {
+  padding-bottom: 20px;
+  margin-bottom: 10px;
+}
+.desc {
+  padding-top: 10px;
+
+  font-size: 40px;
+  color: #071025;
+}
+.other {
+  padding-top: 10px;
+
+  font-size: 30px;
+  color: rgba(47, 68, 9, 0.664);
+}
